@@ -1,0 +1,2 @@
+TOKEN = '7664590298:AAF4J__pJFAsL8w0X_9gz4EGvt6rJPJte7M'
+FOLDER_PATH = 'D:\\FileServer\\test\\'
